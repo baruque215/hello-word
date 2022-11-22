@@ -1,2 +1,1 @@
-# hello-word
-Mi primer repositorio
+#proyecto
